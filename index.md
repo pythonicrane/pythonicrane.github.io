@@ -1,3 +1,6 @@
 ## Welcome to Pythonicrane`s Blog
 
-Communicating me with mail:pythonicrane@qq.com or pythonicrane@gmail.com
+Name:赵三(Pythonicrane)
+Email:pythonicrane@gmail.com
+Location:Changsha,China.
+
