@@ -13,7 +13,7 @@ title: 关于我
 
 <p>
 
-PS：同学的个人页面：
+PS：好基友的个人页面：
 <a target="_blank" href="http://www.arlendu.com/"> Arlendu </a>
 一个相当有水平的程序员+摄影师...
 
