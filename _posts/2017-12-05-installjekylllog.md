@@ -16,7 +16,7 @@ tag: 其他
 3. 若能打开jekyll网页说明环境没问题了。
 
 <h3>三、下载别人的项目</h3>
-1. 如使用git下载链接https://github.com/leopardpan/leopardpan.github.io到本地
+1. 如使用git下载链接https://github.com/onevcat/vno-jekyll.git到本地
 2. 在下载的目录SHIFT+鼠标右键，打开powershell
 3. 输入jekyll serve,报错：Could not find public_suffix-3.0.0 in any of the sources (Bundler::GemNotFound)
 4. 再输入jekyll -v发现找不到jekyll了。
