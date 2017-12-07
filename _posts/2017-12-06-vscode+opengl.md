@@ -2,7 +2,7 @@
 layout: post
 title: "VSCode+Clang+OpenGL(GLUT)"
 date: 2017-12-06 21:38:06
-tag: 其他 图形学
+tag: 其他
 ---
 <h2>一、配置VSCode</h2>
 参考：https://www.zhihu.com/question/30315894
